@@ -19,7 +19,6 @@ theme = "hugo-sustain"
   Github        = "PaigeCD"
   Email         = "paigedown05@gmail.com"
   LinkedIn      = "username"
-  RSS           = "/blog/index.xml"
 
 ## Main Menu
 [[menu.main]]
