@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 baseURL = "https://page-of-paige.netlify.app"
 languageCode = "en-us"
 title = "Paige's Portfolio"
@@ -37,3 +38,4 @@ theme = "hugo-sustain"
   identifier = "resume"
   weight = 300
   url = "/resume/"
+  
