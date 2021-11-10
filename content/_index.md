@@ -1,18 +1,12 @@
 **Paige Downey**
 
-I'm a Computer Science student at Allegheny College.
+I am a Computer Science student at Allegheny College.
+I'm interested in working towards a career in software engineering.
+I love creative problem solving and creative use of tech!
+For a look into my skills, completed coursework, and projects, check out my [experience].
 
-I love all things computer science and maths.
-
-Have a look at some of my working [projects].
-
-For more check out my academic & professional [resume].
-
-Contact me at [@username] or by [email].
+Feel free to contact me through [email] if you'd like to get in touch!
 
 
-
-[projects]: /projects
-[resume]: https://demo.nurlan.co/hugo-vitae/
-[@username]: https://twitter.com/username
+[experience]: /experience
 [email]: mailto:paigedown05@gmail.com
