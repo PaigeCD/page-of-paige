@@ -18,7 +18,7 @@ theme = "hugo-sustain"
 [params.social]
   Github        = "PaigeCD"
   Email         = "paigedown05@gmail.com"
-  LinkedIn      = "username"
+  LinkedIn      = "paigecd"
 
 ## Main Menu
 [[menu.main]]
