@@ -3,15 +3,8 @@
   {{ partial "header" . }}
 
   <div class="container">
-    <h3 class="mt-3"><b><a href="{{ .Permalink }}">{{ .Title }}</a></b></h3>
+    <h3 class="mt-3"><b><a>{{ .Title }}</a></b></h3>
     <div class="blog-title my-4">
-      <h6>
-        {{ .Date.Format "January 2, 2006" }}
-        &nbsp;&nbsp;
-        {{ range .Params.tags }}
-          <span class="badge bg-success">{{ . }}</span>
-        {{ end }}
-      </h6>
     </div>
     <div class="panel">
       <div class="panel-body">
@@ -24,13 +17,10 @@
               {{ range . }}
                 <div class="row">
                   <div class="col-4">
-                    <h6 style="text-align: right">
-                      {{ .Date.Format "January 2, 2006" }}
-                    </h6>
                   </div>
                   <div class="col-8">
                     <h6 style="text-align: left">
-                      <b><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></b>
+                      <b><a\>{{ .Title | markdownify }}</a></b>
                     </h6>
                   </div>
                 </div>
