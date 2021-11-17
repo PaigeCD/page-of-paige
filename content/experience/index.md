@@ -5,16 +5,36 @@ title: "Experience"
 
 #### **Skills**
 
-Throughout my coursework, I have built up various technical skills.
+I have expirence in the following **programming languages**:
 
-Working Knowledge:  Java, Python, Docker, Version control (Git, GitHub, Gitflow), Markdown, UNIX
+- Java
+- Python
+- C
+- R
 
-Basic Skills: C, R, Agile, Algorithm time analysis
+I have also have expirence with the following:
+
+- Docker
+- Version control with Git, GitHub, and GitFlow
+- Agile software development
+- Algorithm analysis
+- Markdown
+- UNIX
 
 #### **Coursework Experience**
 
-As a computer science major, I have gotten to take many interesting courses.
+So far I have completed:
 
-Completed: Computational Expression, Data Abstraction, Discrete Structures, Software Engineering, Algorithm Analysis, Data Analytics
+- Computational Expression
+- Data Abstraction 
+- Discrete Structures
+- Software Engineering
+- Algorithm Analysis
+- Data Analytics
 
-In Progress: Programming Languages, Computer Organization, Principles of Marketing, Creative Technology in Advertising
+I'm currently taking:
+
+- Programming Languages
+- Computer Organization
+- Principles of Marketing
+- Creative Technology in Advertising
